@@ -12,4 +12,5 @@
 - **job_satisfaction_prediction.ipynb** — предсказание удовлетворённости сотрудников.  
 - **linear_models.ipynb** — практика по линейным моделям 
 - **statisctic_analysis.ipynb** — статистический анализ данных.  
-- **well_location_prediction.ipynb** — выбор оптимальных точек для бурения (задача регрессии).  
+- **well_location_prediction.ipynb** — выбор оптимальных точек для бурения (задача регрессии).
+- **age_determination** - определение возраста человека по фото (компьютерное зрение)
